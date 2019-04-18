@@ -4,7 +4,7 @@ Yada does not verify post parameters, if no body is submitted.
 
 # How to reproduce
 
-Close this repo and start the server with `clj -m main`.
+Clone this repo and start the server with `clj -m main`.
 
 Now send a request with:
 
